@@ -16,7 +16,7 @@ public class DeQuelist{
         Q.addFirst(5);
         Q.addLast(55);
         System.out.println(Q);
-
+-
         System.out.println("~~~~~~~~~~~~~~~~~~~~~");
 
         //remove
